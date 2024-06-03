@@ -1,4 +1,5 @@
 # In search of a hazard. ☣️
 
-[![Twitter Badge](https://img.shields.io/badge/-@ghostyn31-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ghostyn31)](https://twitter.com/ghostyn31)
-[![Discord Badge](https://img.shields.io/badge/-@dsaf-5865F2?style=flat-square&labelColor=5865F2&logo=discord&logoColor=white&link=https://discord.com/users/292128980759216128)](https://discord.com/users/292128980759216128)
+[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fghostyn31&label=%40ghostyn31)](https://twitter.com/ghostyn31)
+[![Discord Badge](https://img.shields.io/badge/%40dsaf-0?logo=discord&logoColor=white&color=5865F2)](https://discord.com/users/292128980759216128)
+[![Steam Badge](https://img.shields.io/badge/dsafxP-0?logo=steam&logoColor=white&color=black)](https://steamcommunity.com/id/dsafxP/)
