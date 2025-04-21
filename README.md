@@ -3,7 +3,7 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](http://dsafxp.github.io/)
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/292128980759216128)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/ghostyn31)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/dsafxP)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/dsafxp.bsky.social)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/dsafxP/)
 [![Steam Badge](https://img.shields.io/badge/Steam-0?logo=steam&logoColor=white&color=black)](https://steamcommunity.com/id/dsafxP/)
